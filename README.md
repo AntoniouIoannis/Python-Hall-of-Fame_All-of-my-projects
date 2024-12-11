@@ -14,5 +14,25 @@ The Script - Hall of Fame (Official Video)  with lyrics!
 
 Εξερευνήστε και μάθετε περισσότερα για το καθένα!
 
+# Python Hall of Fame: All of My Projects
+
+Εξερευνήστε τα έργα μου παρακάτω:
+
+## [Python-Challenge-Annotations-Advanced](https://github.com/AntoniouIoannis/Python-Challenge-Annotations-Advanced)
+Αυτό το project περιέχει προηγμένες αναλύσεις και annotations.
+
+![Advanced](https://via.placeholder.com/150)
+
+## [Python-Challenge-Annotations-Simple](https://github.com/AntoniouIoannis/Python-Challenge-Annotations-Simple)
+Μια πιο απλή έκδοση με annotations.
+
+![Simple](https://via.placeholder.com/150)
+
+## [Python-myProject-Joker](https://github.com/AntoniouIoannis/Python-myProject-Joker)
+Ένα project αφιερωμένο στον κόσμο του Joker.
+
+![Joker](https://via.placeholder.com/150)
+
+
 
 
